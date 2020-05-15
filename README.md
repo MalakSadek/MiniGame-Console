@@ -1,5 +1,5 @@
 # Mini Game Console
-A mini-game system implemented in C for a Basys Board 🕹 🔌 (2018).
+A mini-game system implemented in C for a Basys Board 🕹 🔌 (2018)
 
 There are two game modes, a mode where the user was presented with a fact or incorrect statement and they had to guess whether it was true or false, and a mode where the user was presented with a pattern that they had to copy using the flip switches on the board before the timer ran out. 
 
